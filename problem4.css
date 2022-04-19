@@ -1,0 +1,152 @@
+
+.nav-content{
+   margin-right: 2%;
+}
+.container{
+    display: flex;
+    margin-top: 2%;
+}
+.product-image{
+    margin-left: 46%;
+}
+#buynowbtn{
+    height: 0%;
+    width: 15%;
+    margin-left: -38%;
+    margin-top: 16%;
+    border-radius: 27%;
+}
+.container2{
+    height: 19%;
+    width: 100%;
+  background-color: #FCD34D;
+    
+    margin-top: 9%;
+}
+.imageofstores,.store1{
+   
+    height: 50px;
+    margin-top: 0%;
+}
+.imageofstores,.store2{
+    width: 167px;
+    height:56px;
+}
+.imageofstores{
+    display: flex;
+    
+}
+.store1{
+
+margin-left: 480px;
+}
+.store2{
+    margin-left: 44px;
+}
+
+
+.container3,h5{
+margin-top: 42px;
+margin-left: 458px;
+}
+.h6{
+    margin-left: 462px;
+}
+.container3,h6{
+    
+    margin-left: 32px; 
+ }
+.flex-container{
+    display: flex;
+  margin-top: -265px;
+  margin-left: 479px;
+  justify-content: space-around
+}
+.flex-container1{
+    display: flex;
+    margin-top: 105px;
+    margin-left: -99px;
+}
+.flex-containerlast{
+    background-color: #FCD34D;
+    margin-top: 140px;
+    height: 168px;
+}
+
+.footer{
+    background-color: black;
+    
+}
+.container2heading1{
+    margin-left: 19%;
+}
+.container2heading2{
+    margin-left: 22%;
+}
+
+.phone{
+    margin-left: 0px;
+}
+.camera{
+    margin-top: -281px;
+    margin-left: 512px;
+}
+.battery{
+    margin-top: -163px;
+    margin-left: 911px;
+}
+.processor{
+    margin-top: 55px;
+    margin-left: 508px;
+}
+.display{
+    margin-top: -151px;
+    margin-left: 913px;
+}
+.a1{
+    margin-left: -83px;
+    margin-top: 2px;
+}
+.a2{
+    margin-left: -81px;
+    margin-top: -20px;
+}
+.b1{
+    margin-left: -23px;
+    margin-top: 12px;
+
+}
+.b2{
+    margin-left: -38px;
+    margin-top: -17px;
+}
+
+.c1{
+    margin-left: -55px;
+    margin-top: 6px;
+
+}
+.c2{
+    margin-left: -105px;
+    margin-top: -19px;
+}
+.d1{
+    margin-left: -66px;
+    margin-top: 15px;
+}
+.d2{
+    margin-left: -66px;
+    margin-top: -17px;
+}
+.follow{
+    margin-left: 644px;
+    margin-top: 5px;
+}
+.socialmedia{
+    margin-left: 637px;
+    margin-top: 48px;
+}
+.yourwebsite{
+    margin-left: 579px;
+    margin-top: 0px;
+}
